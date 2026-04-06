@@ -233,6 +233,7 @@ Resiliência Quântica (HNDL): Adversários estão roubando dados criptografados
 .
 Cadeia de Suprimentos de IA: O envenenamento de um único agente pode contaminar 87% de uma rede corporativa em menos de 4 horas
 .
+
 *Glossário de Conceitos Chave*
 
 Tríade CIA: Confidencialidade, Integridade e Disponibilidade
@@ -245,7 +246,9 @@ Shadow AI: Uso de ferramentas de IA não aprovadas pela organização
 .
 IA Agêntica: Sistemas que definem objetivos e agem sem intervenção humana constante
 .
+
 *Prompts Reutilizáveis para Revisão*
+
 "Resuma os riscos de segurança física em ambientes industriais (OT) causados por agentes de IA maliciosos em 2026."
 "Explique o impacto do acordo Brasil-UE na circulação de dados pessoais entre jurisdições conforme a Resolução CD/ANPD nº 32/2026."
 "Quais são as 5 camadas principais de defesa para um usuário doméstico segundo as transcrições do Perícia Hacker?"
